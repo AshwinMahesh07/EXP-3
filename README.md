@@ -40,6 +40,8 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![Uploading WhatsApp Image 2025-10-22 at 20.15.58_a2e4e813.jpg…]()
+
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
